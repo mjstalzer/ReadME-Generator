@@ -1,5 +1,5 @@
 # ReadME-Generator
-
+![demo-gif](https://github.com/mjstalzer/ReadME-Generator/blob/master/assets/Node.js%20hw1.gif)
 ## Lessons
 * This project involved Node.js and the inquierer npm packge.
 * Using the skeleton files given, I had to construct a prompt to gather user input.
